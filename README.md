@@ -1,0 +1,2 @@
+# FE-task
+static website
